@@ -1,6 +1,6 @@
 # Farshad Shamlu  |  Personal Website
 
-![Website Screenshot](https://s19.picofile.com/file/8434194550/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%81%D8%AD%D9%87_2021_05_20_092040.jpg?raw=true)
+![Website Screenshot](https://s25.picofile.com/file/8451974484/WebsiteScreenShot.png?raw=true)
 ![Website Screenshot](https://s19.picofile.com/file/8434195192/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%81%D8%AD%D9%87_2021_05_20_092927.jpg?raw=true)
 ![Website Screenshot](https://s18.picofile.com/file/8434195200/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D8%B5%D9%81%D8%AD%D9%87_2021_05_20_092909.jpg?raw=true)
 
