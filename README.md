@@ -8,7 +8,7 @@ You can find a live version at [Farshad-SH.github.io](https://FARSHAD-SH.github.
 
 ## Contact With Me
 
-- [Instagram](https://www.instagram.com/farshad-shamlu/) 
-- [linkedin](https://www.linkedin.com/in/farshadshamlu/)
+- [Instagram](https://www.instagram.com/farshad.shamlu/)
+- [linkedin](https://linkedin.com/in/farshad-s-467696128)
 - [Telegram](https://www.t.me/farshad6991/)
-- [Gmail](farshad.shamlu@gmail.com)
+- [Gmail](mailto:farshad.shamlu@gmail.com)
